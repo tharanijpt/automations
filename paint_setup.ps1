@@ -40,7 +40,7 @@ Send-Keys("{ENTER}")
 Send-Keys("%")
 Send-Keys("l")
 
-#need to put ctrl + shift + n here
+# Select Layer
 Send-Keys("^(+{n})")
 Send-Keys("%b")
 
